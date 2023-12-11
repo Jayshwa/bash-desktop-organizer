@@ -17,7 +17,7 @@ Run the Script:
 
 bash
 Copy code
-./desktop_organizer.sh
+./organizer.sh
 Customization
 If you wish to customize the script for additional file types or different directories, you can modify the script's variables accordingly.
 
